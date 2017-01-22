@@ -1,4 +1,4 @@
-# hello-line-bot-aws-lambda
+# Creating a Line BOT on AWS Lambda
 
 ## References 
 
