@@ -1,4 +1,4 @@
-# Creating a Line BOT on AWS Lambda
+# Creating a Line Bot on AWS Lambda
 
 ## References 
 
