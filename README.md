@@ -1,4 +1,4 @@
-# Creating a Line Bot on AWS Lambda
+# Creating a LINE BOT on AWS Lambda
 
 ## References 
 
@@ -6,7 +6,7 @@
 
 - [Java Logging](http://docs.aws.amazon.com/lambda/latest/dg/java-logging.html)
 
-### Line Bot and Lambda
+### LINE BOT and Lambda
 
 - [LINE Messaging API と AWS Lambda で LINE BOT を作ってみた](http://www.kazuweb.asia/aws/lambda/chatbot)
 
