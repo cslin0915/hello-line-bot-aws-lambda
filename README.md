@@ -10,7 +10,7 @@ References
 -	[Creating A Simple REST Service Using AWS Lambda, API Gateway, And IAM](http://technology.finra.org/code/enjoying-auto-scaling-integrated-authentication-low-host-cost.html)
 -	[Java Logging](http://docs.aws.amazon.com/lambda/latest/dg/java-logging.html)
 
-### AWS Gateway
+### AWS API Gateway
 
 -	[Use Postman to Test an API ](http://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-use-postman-to-call-api.html)
 
